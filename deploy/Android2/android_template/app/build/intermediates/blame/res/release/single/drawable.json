@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_leather_repeatable.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\bg_leather_repeatable.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_forward.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\btn_forward.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next_btn_pressed_control.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\next_btn_pressed_control.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\reload_btn_andl_generic.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\reload_btn_andl_generic.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_round_corner.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\drawable\\text_round_corner.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_more_drag_unselected.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\ic_more_drag_unselected.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\webview_address_bar_shadow.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\drawable\\webview_address_bar_shadow.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\secured_feature.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\secured_feature.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\more_tab_selector.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\more_tab_selector.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\back_btn_pressed_control.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\back_btn_pressed_control.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_back.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\btn_back.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\back_btn_disabled_control.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\back_btn_disabled_control.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\webview_navigation_bar_gradient.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\drawable\\webview_navigation_bar_gradient.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\webview_back_selector.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\drawable\\webview_back_selector.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\more_titlebar_background.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\more_titlebar_background.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\webview_forward_selector.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\drawable\\webview_forward_selector.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\back_btn_andl_disabled.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\back_btn_andl_disabled.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_more_titlebar_repeatable.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\bg_more_titlebar_repeatable.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\webview_stop_selector.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\drawable\\webview_stop_selector.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\back_btn_andl_generic.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\back_btn_andl_generic.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\more_action_panel_background.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\more_action_panel_background.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_tab_more_selected.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\ic_tab_more_selected.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\back_btn_normal_control.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\back_btn_normal_control.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_tab_more_unselected.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\ic_tab_more_unselected.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next_btn_normal_control.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\next_btn_normal_control.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_round_corner.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\drawable\\button_round_corner.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\webview_refresh_selector.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\drawable\\webview_refresh_selector.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\reload_btn_andl_disabled.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\reload_btn_andl_disabled.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_refresh.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\btn_refresh.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_input_error.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\drawable\\indicator_input_error.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\reload_btn_pressed_control.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\reload_btn_pressed_control.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next_btn_andl_generic.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\next_btn_andl_generic.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next_btn_andl_disabled.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\next_btn_andl_disabled.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\reload_btn_normal_control.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\reload_btn_normal_control.png"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next_btn_disabled_control.png",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\drawable\\next_btn_disabled_control.png"
+    }
+]

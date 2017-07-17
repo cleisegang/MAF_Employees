@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\oamms_client_cert_dialog.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\layout\\oamms_client_cert_dialog.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\adfmf_blank_activity.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\layout\\adfmf_blank_activity.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\oamms_certificate.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\layout\\oamms_certificate.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\adfmf_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\layout\\adfmf_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\adfmf_main.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\layout\\adfmf_main.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\oamms_information.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\layout\\oamms_information.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\oamms_client_cert_system_footer.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\layout\\oamms_client_cert_system_footer.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\adfmf_configsrvc_credentials.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\layout\\adfmf_configsrvc_credentials.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\adfmf_configsrvc_credentials_no_tenant.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\layout\\adfmf_configsrvc_credentials_no_tenant.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\oamms_http_auth_challenge.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\layout\\oamms_http_auth_challenge.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\oamms_challenge.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\layout\\oamms_challenge.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\oamms_progressview.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\layout\\oamms_progressview.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\adfmf_more_page.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\layout\\adfmf_more_page.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\adfmf_lifecycle_shutdown.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\layout\\adfmf_lifecycle_shutdown.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\oamms_login_webview.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\layout\\oamms_login_webview.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\oamms_certificate_list_row.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\layout\\oamms_certificate_list_row.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\adfmf_login_page.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\layout\\adfmf_login_page.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\oamms_sslwarning.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\layout\\oamms_sslwarning.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\adfmf_log_text_view.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\8aaec995fdae70241ca4c8ee7c3316e806aba417\\output\\res\\layout\\adfmf_log_text_view.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\oamms_webview.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\layout\\oamms_webview.xml"
+    },
+    {
+        "merged": "C:\\JDeveloper\\mywork\\MAF_Employees\\deploy\\Android2\\android_template\\app\\build\\intermediates\\res\\merged\\release\\layout\\oamms_basicauth.xml",
+        "source": "C:\\Users\\carl.leisegang\\.android\\build-cache\\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\\output\\res\\layout\\oamms_basicauth.xml"
+    }
+]

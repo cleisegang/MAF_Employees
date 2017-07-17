@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\carl.leisegang\.android\build-cache\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\output\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
+        <dex dex="C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\build\intermediates\pre-dexed\release\org.apache.http.legacy_1fd3b4435f0e290ff0257c4c0b8ce55df92b9f16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carl.leisegang\.android\build-cache\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\output\jars\libs\nimbus-jose-jwt-4.26.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1282ff2751e8b638632b69af9231337e4f5a9613">
+        <dex dex="C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\build\intermediates\pre-dexed\release\nimbus-jose-jwt-4.26_3a6ad4dc24f026012580a59276c8a1ab2cf2e651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carl.leisegang\.android\build-cache\8aaec995fdae70241ca4c8ee7c3316e806aba417\output\jars\libs\javax.json.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f98e0c41288316b55e301063fe8f450a74da659e">
+        <dex dex="C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\build\intermediates\pre-dexed\release\javax.json_b2f1b3a71f786fd8f8093f4de64998865488eb55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carl.leisegang\.android\build-cache\8aaec995fdae70241ca4c8ee7c3316e806aba417\output\jars\libs\JavaLauncher.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d39dd0c1c41f79ddfa49a8781ffb09b363c41c00">
+        <dex dex="C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\build\intermediates\pre-dexed\release\JavaLauncher_a686b0028a4b2401f124e5511acf2410a21a13cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carl.leisegang\.android\build-cache\8aaec995fdae70241ca4c8ee7c3316e806aba417\output\jars\libs\DVMChannel.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c62aa027fc775f52fa295ac7c2d94ff3af18b037">
+        <dex dex="C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\build\intermediates\pre-dexed\release\DVMChannel_7ed3fdc1544ff9a4b64754794fd03e1dec678ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carl.leisegang\.android\build-cache\8aaec995fdae70241ca4c8ee7c3316e806aba417\output\jars\libs\NativeKeystore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433bb190d1df5c04739e48e5bd82925e80d6159a">
+        <dex dex="C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\build\intermediates\pre-dexed\release\NativeKeystore_e3d63842535a99cc0d121116544cc2f6d8abd02b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carl.leisegang\.android\build-cache\8aaec995fdae70241ca4c8ee7c3316e806aba417\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d54ce4ebd81d9b50aa333f6991f67ec11c90896b">
+        <dex dex="C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\build\intermediates\pre-dexed\release\classes_5d6882b92c45b1fb24cddaab22af2f33b4b2d88b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carl.leisegang\.android\build-cache\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca569d38282da7a6fb18a6ff85caa3cea51f800d">
+        <dex dex="C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\build\intermediates\pre-dexed\release\classes_c8a1d25befe8fb12832c2c4326a953873b641619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carl.leisegang\.android\build-cache\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\output\jars\libs\json-smart-1.0.6.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="14b10d3ff1f0011356895b3d98976921f35fd170">
+        <dex dex="C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\build\intermediates\pre-dexed\release\json-smart-1.0.6.3_087bb431b932a1a18658cb5786d1cf952591c813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carl.leisegang\.android\build-cache\b3f837dbc682ba83722017e714bceb879168dfaa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6607c993ea23c7e0b4b9f23ab4fa9bdb56283f07">
+        <dex dex="C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\build\intermediates\pre-dexed\release\classes_2d245f669bc951810bab3c9230b3131f65045899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carl.leisegang\.android\build-cache\8aaec995fdae70241ca4c8ee7c3316e806aba417\output\jars\libs\AND_ksoap.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="221ccd42e5dc8c673e6fa94645328373df6a19d7">
+        <dex dex="C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\build\intermediates\pre-dexed\release\AND_ksoap_825c324d8e99ba739fcd27434205fe55453d4fd1.jar" />
+    </item>
+
+</items>

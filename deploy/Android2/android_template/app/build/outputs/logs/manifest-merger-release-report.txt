@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:2:11-46
+		INJECTED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml
+		INJECTED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:2:106-152
+	xmlns:android
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:2:47-105
+	android:versionCode
+		INJECTED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml
+		INJECTED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml
+uses-sdk
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:3:5-74
+MERGED from [android_template:Container:unspecified] C:\Users\carl.leisegang\.android\build-cache\8aaec995fdae70241ca4c8ee7c3316e806aba417\output\AndroidManifest.xml:8:5-10:41
+MERGED from [android_template:Cordova:unspecified] C:\Users\carl.leisegang\.android\build-cache\b3f837dbc682ba83722017e714bceb879168dfaa\output\AndroidManifest.xml:25:5-44
+MERGED from [android_template:IDMMobileSDK:unspecified] C:\Users\carl.leisegang\.android\build-cache\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\output\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:3:42-71
+		INJECTED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml
+		INJECTED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:3:15-41
+		INJECTED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml
+		INJECTED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml
+application
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:4:5-20:19
+MERGED from [android_template:IDMMobileSDK:unspecified] C:\Users\carl.leisegang\.android\build-cache\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\output\AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:4:112-144
+		REJECTED from [android_template:IDMMobileSDK:unspecified] C:\Users\carl.leisegang\.android\build-cache\87645cb3e0c8e54da3446f79acec2d4c5cbfd9a2\output\AndroidManifest.xml:11:18-56
+	android:supportsRtl
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:4:201-227
+	android:debuggable
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:4:18-44
+	android:icon
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:4:45-80
+	android:installLocation
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:4:81-111
+	tools:replace
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:4:228-346
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:4:145-200
+activity#oracle.adfmf.Container
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:5:9-10:20
+	android:label
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:5:193-225
+	android:hardwareAccelerated
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:5:158-192
+	android:launchMode
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:5:226-257
+	android:windowSoftInputMode
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:5:329-371
+	android:configChanges
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:5:19-157
+	android:theme
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:5:296-328
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:5:258-295
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:6:13-9:29
+action#android.intent.action.MAIN
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:7:17-69
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:7:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:8:17-77
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:8:27-74
+activity#oracle.adfmf.SettingsActivity
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:11:9-157
+	android:windowSoftInputMode
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:11:112-154
+	android:theme
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:11:64-111
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:11:19-63
+activity#oracle.adfmf.framework.localnotification.MafNativeLocalNotificationActivity
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:12:9-112
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:12:19-109
+receiver#oracle.adfmf.framework.localnotification.NativeLocalNotificationBroadcastReceiver
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:13:9-118
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:13:19-115
+meta-data#secureWindowContents
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:14:9-80
+	android:value
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:14:56-77
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:14:20-55
+receiver#oracle.adfmf.framework.localnotification.NativeLocalNotificationRestoreReceiver
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:15:9-19:20
+	android:exported
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:15:19-43
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:15:44-138
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:16:13-18:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:17:25-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\JDeveloper\mywork\MAF_Employees\deploy\Android2\android_template\app\AndroidManifest.xml:25:22-64

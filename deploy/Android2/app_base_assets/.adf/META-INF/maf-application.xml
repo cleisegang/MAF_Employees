@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<adfmf:application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adfmf="http://xmlns.oracle.com/adf/mf"
+                   version="1.0" name="MAF_Employees" id="com.company.MAF_Employees"
+                   appControllerFolder="ApplicationController"
+                   listener-class="mycomp.application.LifeCycleListenerImpl">
+  <adfmf:featureReference refId="mycomp.Employees" id="fr1"/>
+  <adfmf:featureReference refId="mycomp.Help" id="fr2"/>
+</adfmf:application>

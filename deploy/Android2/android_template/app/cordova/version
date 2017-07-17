@@ -1,0 +1,3 @@
+#!/bin/sh
+VERSION=6.0.0
+echo $VERSION
